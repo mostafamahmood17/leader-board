@@ -1,0 +1,14 @@
+.logo-size img{
+    width: 51px;
+    height:51px;
+}
+.text{
+    
+    text-decoration: none  !important;
+    color:white  !important;
+}
+
+.text img{
+    width: 40px;
+    height:40px;
+}
