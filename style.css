@@ -12,3 +12,34 @@
     width: 40px;
     height:40px;
 }
+
+h1{
+    color:#562EFF;
+}
+body{
+    background-color: #E5E5E5;
+}
+
+.image-size img{
+    width:177px;
+    height:117px;
+}
+
+.icon{
+    width:20px;
+    height:20px;
+
+}
+
+small{
+    color:#FF4A60;
+    
+}
+
+.logo-design{
+    background-color: #FFE4E8;
+    border-radius: 150px;
+    border: 1px solid red;
+    width:94px;
+    height:29px;
+}
